@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/05 21:50:37.000.088,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/04/05 21:50:37.000.260,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/04/07 05:30:30.000.308,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/04/07 05:30:30.000.786,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/04/15 18:14:58.000.535,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/04/15 18:14:58.000.984,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2020/05/10 15:16:05.000.628,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/05/10 15:16:05.000.782,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/05/28 04:28:20.000.943,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/05/28 04:28:26.000.660,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/06/05 01:12:57.000.013,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/06/05 01:12:57.000.398,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/06/05 01:57:41.000.911,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/06/05 01:57:41.000.795,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/06/05 04:09:14.000.667,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/06/05 04:09:15.000.247,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/06/06 06:07:38.000.513,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/06/06 06:07:38.000.359,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/06/19 15:29:14.000.825,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/06/19 15:29:14.000.050,=C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/06/19 15:36:54.000.049,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\marij\Desktop\MASCHERINE\tiktokdownloader\tiktokc\Unit1.dfm</Transaction>
+    <Transaction>2020/06/19 15:36:54.000.049,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\marij\Desktop\MASCHERINE\tiktokdownloader\tiktokc\Unit1.h</Transaction>
+    <Transaction>2020/06/19 15:36:54.000.049,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\marij\Desktop\MASCHERINE\tiktokdownloader\tiktokc\Unit1.cpp</Transaction>
+    <Transaction>2020/06/19 15:36:58.000.411,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\marij\Desktop\MASCHERINE\tiktokdownloader\tiktokc\Project1PCH1.h</Transaction>
+    <Transaction>2020/06/19 15:37:11.000.739,C:\Users\marij\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\marij\Desktop\MASCHERINE\tiktokdownloader\tiktokc\ALTiKToK.cbproj</Transaction>
+    <Transaction>2020/06/19 15:37:11.000.670,C:\Users\marij\Desktop\MASCHERINE\tiktokdownloader\tiktokc\Project1PCH1.h=C:\Users\marij\Desktop\MASCHERINE\tiktokdownloader\tiktokc\ALTiKToKPCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
