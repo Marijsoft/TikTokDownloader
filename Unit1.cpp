@@ -28,19 +28,19 @@ __fastcall TForm1::TForm1(TComponent* Owner)
  String __fastcall TForm1::sEstraiDati( const String s, const String ultimo, const String primo )
 {
   String result;
-  int pultimo = 0, pprimo = 0, psuccessivo = 0;
-  pprimo = s.Pos( primo );
-  pultimo = s.Pos( ultimo );
-  while ( ( pultimo > 0 ) && ( pprimo > 0 ) )
+  int pultimo=0, pprimo=0, psuccessivo=0;
+  pprimo=s.Pos(primo);
+  pultimo=s.Pos(ultimo);
+  while ((pultimo>0) && (pprimo>0))
   {
-    if ( pprimo > pultimo )
-	  pultimo = PosEx( ultimo, s, pultimo + ultimo.Length( ) );
+    if (pprimo>pultimo)
+	  pultimo=PosEx(ultimo,s,pultimo+ultimo.Length());
     else
     {
-	  psuccessivo = PosEx( primo, s, pprimo + primo.Length( ) );
-      if ( ( psuccessivo == 0 ) || ( psuccessivo > pultimo ) )
+	  psuccessivo=PosEx(primo,s,pprimo+primo.Length());
+      if ((psuccessivo==0) || (psuccessivo>pultimo))
       {
-        result = Trim( s.SubString( pprimo, pultimo - pprimo + ultimo.Length( ) ) );
+        result=Trim(s.SubString(pprimo,pultimo-pprimo+ultimo.Length()));
         return result;
       }
       else
